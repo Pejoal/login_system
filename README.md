@@ -1,10 +1,8 @@
 # Pejoal
 
-This is one of my projects
+## Login System 
 
-## Demo
-
-[Live] https://pejoal.000webhostapp.com/
+- [Live Demo](https://pejoal.000webhostapp.com/login_system/)
 
 ## Skills
 
@@ -33,6 +31,8 @@ This is one of my projects
 - HTML 5
 - CSS 3
 - JavaScript [ECMA 2015]
+- PHP 8 
+- MySQL 
 - More..
 
 ## Authors
